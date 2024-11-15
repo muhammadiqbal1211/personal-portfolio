@@ -1,0 +1,64 @@
+*{
+   text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    
+}
+.h1{
+    background-color: darkcyan;
+    height: 100px;
+    width: 100%;
+    border-color: black;
+    border-width: 0.1em;
+    border-style: solid;
+   text-transform: capitalize;
+}
+
+.link{
+    width:100px ;
+    height: 100px;
+    display: inline;
+    list-style: none;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+header nav ul li :hover {
+color: black;
+}
+.about{
+    text-align: justify;
+
+}
+.contacta {
+    text-decoration: none;
+    color: white;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.footer {
+    width: 100%;
+    margin: 0 auto;
+    background-color: darkcyan;
+    height: 50px;
+    border-color: black;
+    border-width: 0.1em;
+    border-style: solid;
+}
+h2{
+    font-size: 25px;
+    background-color: darkcyan;
+    color: white;
+    border-color: black;
+    border-width: 0.1em;
+    border-style: solid;
+}
+.Msize{
+   font-size: 50p;
+
+}
