@@ -1,17 +1,20 @@
 *{
    text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 22px;
+  
     
 }
 .h1{
-    background-color: darkcyan;
+    background: linear-gradient(to right, #d88ff5, #6e48aa);
     height: 100px;
     width: 100%;
     border-color: black;
     border-width: 0.1em;
     border-style: solid;
    text-transform: capitalize;
+}
+.textjustify{
+    text-align: justify;
 }
 
 .link{
@@ -37,26 +40,25 @@ color: black;
 .contacta {
     text-decoration: none;
     color: white;
-    font-size: 1.1em;
+    font-size: 20px;
     text-transform: uppercase;
     font-weight: 700;
 }
 .footer {
-    width: 100%;
-    margin: 0 auto;
-    background-color: darkcyan;
-    height: 50px;
+    background: linear-gradient(to right, #d88ff5, #6e48aa);
     border-color: black;
     border-width: 0.1em;
     border-style: solid;
 }
 h2{
     font-size: 25px;
-    background-color: darkcyan;
+    background: linear-gradient(to right, #d88ff5, #6e48aa);
     color: white;
     border-color: black;
     border-width: 0.1em;
     border-style: solid;
+
+
 }
 .Msize{
    font-size: 50p;
